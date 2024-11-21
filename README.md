@@ -143,6 +143,3 @@ You can customize the script by modifying the following variables in the `conver
 This script is open-source and available under the MIT License. You are free to modify and distribute it according to the terms of the license.
 ```
 
----
-
-This `README.md` is now properly formatted in Markdown with all the relevant sections. You can copy and paste this directly into your `README.md` file. Let me know if you need any further adjustments!
